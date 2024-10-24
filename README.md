@@ -33,6 +33,11 @@ while True:
 
 ```
 ## OUPUT
+## client
+![379600111-251632a8-ef0e-4d1a-b8a1-e50db15c79c4](https://github.com/user-attachments/assets/cab8a855-05fd-4f54-aee7-048870ea6f05)
+## server
+![379601623-05060c5b-b388-42dc-8df5-80920961fb93](https://github.com/user-attachments/assets/ea9c8d11-6499-472a-a858-f1ce16674540)
+
 
 
 ## RESULT
